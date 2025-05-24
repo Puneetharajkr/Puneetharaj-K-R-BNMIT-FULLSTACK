@@ -200,5 +200,3 @@ npm start
 
 
 
-![image](https://github.com/user-attachments/assets/bac93aed-2d1a-4115-9404-36f55e35dd06)
-
